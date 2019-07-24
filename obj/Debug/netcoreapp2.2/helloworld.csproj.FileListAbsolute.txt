@@ -1,0 +1,11 @@
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\bin\Debug\netcoreapp2.2\helloworld.deps.json
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\bin\Debug\netcoreapp2.2\helloworld.runtimeconfig.json
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\bin\Debug\netcoreapp2.2\helloworld.runtimeconfig.dev.json
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\bin\Debug\netcoreapp2.2\helloworld.dll
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\bin\Debug\netcoreapp2.2\helloworld.pdb
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\obj\Debug\netcoreapp2.2\helloworld.csprojAssemblyReference.cache
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\obj\Debug\netcoreapp2.2\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\obj\Debug\netcoreapp2.2\helloworld.AssemblyInfoInputs.cache
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\obj\Debug\netcoreapp2.2\helloworld.AssemblyInfo.cs
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\obj\Debug\netcoreapp2.2\helloworld.dll
+C:\Users\zachs\Desktop\coding-projects\c#\helloworld\obj\Debug\netcoreapp2.2\helloworld.pdb
