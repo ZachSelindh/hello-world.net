@@ -6,6 +6,7 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Hello World!");
         }
     }
