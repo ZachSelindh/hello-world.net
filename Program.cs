@@ -6,8 +6,12 @@ namespace helloworld
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Hello World!");
+            int num1 = 13;
+            int num2 = 5;
+            int sum = num1 + num2;
+
+            Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + sum);
+            Console.Read();
         }
     }
 }
